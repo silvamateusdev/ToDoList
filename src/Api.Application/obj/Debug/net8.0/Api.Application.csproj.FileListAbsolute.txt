@@ -1,0 +1,226 @@
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/appsettings.Development.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/appsettings.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Api.Application
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Api.Application.deps.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Api.Application.runtimeconfig.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Api.Application.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Api.Application.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/FluentValidation.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Humanizer.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/MySqlConnector.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/System.CodeDom.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Api.Domain.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Api.Infrastructure.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Api.Service.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Api.Infrastructure.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Api.Service.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/bin/Debug/net8.0/Api.Domain.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/Api.Application.csproj.AssemblyReference.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/Api.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/Api.Application.AssemblyInfoInputs.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/Api.Application.AssemblyInfo.cs
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/Api.Application.csproj.CoreCompileInputs.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/Api.Application.MvcApplicationPartsAssemblyInfo.cs
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/Api.Application.MvcApplicationPartsAssemblyInfo.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/staticwebassets.build.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/staticwebassets.development.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/staticwebassets/msbuild.Api.Application.Microsoft.AspNetCore.StaticWebAssets.props
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/staticwebassets/msbuild.build.Api.Application.props
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Api.Application.props
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Api.Application.props
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/staticwebassets.pack.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/scopedcss/bundle/Api.Application.styles.css
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/Api.Appl.4041F17A.Up2Date
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/Api.Application.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/refint/Api.Application.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/Api.Application.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/Api.Application.genruntimeconfig.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/1 - Application/Api.Application/obj/Debug/net8.0/ref/Api.Application.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/appsettings.Development.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/appsettings.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Api.Application
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Api.Application.deps.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Api.Application.runtimeconfig.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Api.Application.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Api.Application.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/FluentValidation.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Humanizer.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/MySqlConnector.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/System.CodeDom.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Api.Domain.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Api.Infrastructure.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Api.Service.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Api.Infrastructure.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Api.Service.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/bin/Debug/net8.0/Api.Domain.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/Api.Application.csproj.AssemblyReference.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/Api.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/Api.Application.AssemblyInfoInputs.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/Api.Application.AssemblyInfo.cs
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/Api.Application.csproj.CoreCompileInputs.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/Api.Application.MvcApplicationPartsAssemblyInfo.cs
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/Api.Application.MvcApplicationPartsAssemblyInfo.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/staticwebassets.build.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/staticwebassets.development.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/staticwebassets/msbuild.Api.Application.Microsoft.AspNetCore.StaticWebAssets.props
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/staticwebassets/msbuild.build.Api.Application.props
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Api.Application.props
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Api.Application.props
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/staticwebassets.pack.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/scopedcss/bundle/Api.Application.styles.css
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/Api.Appl.4041F17A.Up2Date
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/Api.Application.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/refint/Api.Application.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/Api.Application.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/Api.Application.genruntimeconfig.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Application/obj/Debug/net8.0/ref/Api.Application.dll

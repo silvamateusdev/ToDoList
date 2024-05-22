@@ -1,0 +1,24 @@
+/home/mateus/Documentos/Estudos/C#/ToDoList/2 - Domain/Api.Domain/obj/Debug/net8.0/Api.Domain.csproj.AssemblyReference.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/2 - Domain/Api.Domain/obj/Debug/net8.0/Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus/Documentos/Estudos/C#/ToDoList/2 - Domain/Api.Domain/obj/Debug/net8.0/Api.Domain.AssemblyInfoInputs.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/2 - Domain/Api.Domain/obj/Debug/net8.0/Api.Domain.AssemblyInfo.cs
+/home/mateus/Documentos/Estudos/C#/ToDoList/2 - Domain/Api.Domain/obj/Debug/net8.0/Api.Domain.csproj.CoreCompileInputs.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/2 - Domain/Api.Domain/bin/Debug/net8.0/Api.Domain.deps.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/2 - Domain/Api.Domain/bin/Debug/net8.0/Api.Domain.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/2 - Domain/Api.Domain/bin/Debug/net8.0/Api.Domain.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/2 - Domain/Api.Domain/obj/Debug/net8.0/Api.Domain.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/2 - Domain/Api.Domain/obj/Debug/net8.0/refint/Api.Domain.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/2 - Domain/Api.Domain/obj/Debug/net8.0/Api.Domain.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/2 - Domain/Api.Domain/obj/Debug/net8.0/ref/Api.Domain.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Domain/bin/Debug/net8.0/Api.Domain.deps.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Domain/bin/Debug/net8.0/Api.Domain.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Domain/bin/Debug/net8.0/Api.Domain.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Domain/obj/Debug/net8.0/Api.Domain.csproj.AssemblyReference.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Domain/obj/Debug/net8.0/Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Domain/obj/Debug/net8.0/Api.Domain.AssemblyInfoInputs.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Domain/obj/Debug/net8.0/Api.Domain.AssemblyInfo.cs
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Domain/obj/Debug/net8.0/Api.Domain.csproj.CoreCompileInputs.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Domain/obj/Debug/net8.0/Api.Domain.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Domain/obj/Debug/net8.0/refint/Api.Domain.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Domain/obj/Debug/net8.0/Api.Domain.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Domain/obj/Debug/net8.0/ref/Api.Domain.dll

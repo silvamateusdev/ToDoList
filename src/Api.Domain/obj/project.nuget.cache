@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YdudWiXJoKY=",
+  "success": true,
+  "projectFilePath": "/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Domain/Api.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/mateus/.nuget/packages/fluentvalidation/11.9.1/fluentvalidation.11.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

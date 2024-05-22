@@ -1,0 +1,34 @@
+/home/mateus/Documentos/Estudos/C#/ToDoList/4 - Infrastructure/Api.Infrastructure/bin/Debug/net8.0/Api.Infrastructure.deps.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/4 - Infrastructure/Api.Infrastructure/bin/Debug/net8.0/Api.Infrastructure.runtimeconfig.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/4 - Infrastructure/Api.Infrastructure/bin/Debug/net8.0/Api.Infrastructure.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/4 - Infrastructure/Api.Infrastructure/bin/Debug/net8.0/Api.Infrastructure.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/4 - Infrastructure/Api.Infrastructure/bin/Debug/net8.0/Api.Domain.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/4 - Infrastructure/Api.Infrastructure/bin/Debug/net8.0/Api.Domain.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/4 - Infrastructure/Api.Infrastructure/obj/Debug/net8.0/Api.Infrastructure.csproj.AssemblyReference.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/4 - Infrastructure/Api.Infrastructure/obj/Debug/net8.0/Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus/Documentos/Estudos/C#/ToDoList/4 - Infrastructure/Api.Infrastructure/obj/Debug/net8.0/Api.Infrastructure.AssemblyInfoInputs.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/4 - Infrastructure/Api.Infrastructure/obj/Debug/net8.0/Api.Infrastructure.AssemblyInfo.cs
+/home/mateus/Documentos/Estudos/C#/ToDoList/4 - Infrastructure/Api.Infrastructure/obj/Debug/net8.0/Api.Infrastructure.csproj.CoreCompileInputs.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/4 - Infrastructure/Api.Infrastructure/obj/Debug/net8.0/Api.Infr.439C6BD2.Up2Date
+/home/mateus/Documentos/Estudos/C#/ToDoList/4 - Infrastructure/Api.Infrastructure/obj/Debug/net8.0/Api.Infrastructure.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/4 - Infrastructure/Api.Infrastructure/obj/Debug/net8.0/refint/Api.Infrastructure.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/4 - Infrastructure/Api.Infrastructure/obj/Debug/net8.0/Api.Infrastructure.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/4 - Infrastructure/Api.Infrastructure/obj/Debug/net8.0/Api.Infrastructure.genruntimeconfig.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/4 - Infrastructure/Api.Infrastructure/obj/Debug/net8.0/ref/Api.Infrastructure.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Infrastructure/bin/Debug/net8.0/Api.Infrastructure.deps.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Infrastructure/bin/Debug/net8.0/Api.Infrastructure.runtimeconfig.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Infrastructure/bin/Debug/net8.0/Api.Infrastructure.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Infrastructure/bin/Debug/net8.0/Api.Infrastructure.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Infrastructure/bin/Debug/net8.0/Api.Domain.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Infrastructure/bin/Debug/net8.0/Api.Domain.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Infrastructure/obj/Debug/net8.0/Api.Infrastructure.csproj.AssemblyReference.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Infrastructure/obj/Debug/net8.0/Api.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Infrastructure/obj/Debug/net8.0/Api.Infrastructure.AssemblyInfoInputs.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Infrastructure/obj/Debug/net8.0/Api.Infrastructure.AssemblyInfo.cs
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Infrastructure/obj/Debug/net8.0/Api.Infrastructure.csproj.CoreCompileInputs.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Infrastructure/obj/Debug/net8.0/Api.Infr.439C6BD2.Up2Date
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Infrastructure/obj/Debug/net8.0/Api.Infrastructure.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Infrastructure/obj/Debug/net8.0/refint/Api.Infrastructure.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Infrastructure/obj/Debug/net8.0/Api.Infrastructure.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Infrastructure/obj/Debug/net8.0/Api.Infrastructure.genruntimeconfig.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Infrastructure/obj/Debug/net8.0/ref/Api.Infrastructure.dll

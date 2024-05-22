@@ -1,0 +1,30 @@
+/home/mateus/Documentos/Estudos/C#/ToDoList/3 - Service/Api.Service/bin/Debug/net8.0/Api.Service.deps.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/3 - Service/Api.Service/bin/Debug/net8.0/Api.Service.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/3 - Service/Api.Service/bin/Debug/net8.0/Api.Service.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/3 - Service/Api.Service/bin/Debug/net8.0/Api.Domain.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/3 - Service/Api.Service/bin/Debug/net8.0/Api.Domain.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/3 - Service/Api.Service/obj/Debug/net8.0/Api.Service.csproj.AssemblyReference.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/3 - Service/Api.Service/obj/Debug/net8.0/Api.Service.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus/Documentos/Estudos/C#/ToDoList/3 - Service/Api.Service/obj/Debug/net8.0/Api.Service.AssemblyInfoInputs.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/3 - Service/Api.Service/obj/Debug/net8.0/Api.Service.AssemblyInfo.cs
+/home/mateus/Documentos/Estudos/C#/ToDoList/3 - Service/Api.Service/obj/Debug/net8.0/Api.Service.csproj.CoreCompileInputs.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/3 - Service/Api.Service/obj/Debug/net8.0/Api.Serv.73C609B4.Up2Date
+/home/mateus/Documentos/Estudos/C#/ToDoList/3 - Service/Api.Service/obj/Debug/net8.0/Api.Service.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/3 - Service/Api.Service/obj/Debug/net8.0/refint/Api.Service.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/3 - Service/Api.Service/obj/Debug/net8.0/Api.Service.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/3 - Service/Api.Service/obj/Debug/net8.0/ref/Api.Service.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Service/bin/Debug/net8.0/Api.Service.deps.json
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Service/bin/Debug/net8.0/Api.Service.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Service/bin/Debug/net8.0/Api.Service.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Service/bin/Debug/net8.0/Api.Domain.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Service/bin/Debug/net8.0/Api.Domain.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Service/obj/Debug/net8.0/Api.Service.csproj.AssemblyReference.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Service/obj/Debug/net8.0/Api.Service.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Service/obj/Debug/net8.0/Api.Service.AssemblyInfoInputs.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Service/obj/Debug/net8.0/Api.Service.AssemblyInfo.cs
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Service/obj/Debug/net8.0/Api.Service.csproj.CoreCompileInputs.cache
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Service/obj/Debug/net8.0/Api.Serv.73C609B4.Up2Date
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Service/obj/Debug/net8.0/Api.Service.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Service/obj/Debug/net8.0/refint/Api.Service.dll
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Service/obj/Debug/net8.0/Api.Service.pdb
+/home/mateus/Documentos/Estudos/C#/ToDoList/src/Api.Service/obj/Debug/net8.0/ref/Api.Service.dll
