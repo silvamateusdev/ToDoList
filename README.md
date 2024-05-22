@@ -25,7 +25,7 @@ Ferramentas do projeto:
  
 ## Em funcionamento
 
-[(Link do youtube)](https://youtu.be/yv5n0JWQ8Ew)
+[Link do youtube](https://youtu.be/yv5n0JWQ8Ew)
 
 ## ✒️ Autor
 
