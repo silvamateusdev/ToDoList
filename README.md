@@ -1,17 +1,17 @@
-# Lista de tarefas por dias da semana
+# Daily task list
 
 .Net 8 Minimal API + DDD + Entity Framework + MySQL
 
-## 🚀 Começando
+## 🚀 Getting started
 
-### 📋 Pré-requisitos
+### 📋 Requirements
 
-O que é necessário para rodar o projeto?
+What are the requirements to run the project?
 
 * .Net 8
 * MySql ou MariaDB
 
-Ferramentas do projeto:
+Project Tools:
 
 * EntityFrameworkCore - Versão 8.0.4
 * EntityFrameworkCore.Design - Versão 8.0.4
@@ -19,14 +19,14 @@ Ferramentas do projeto:
 * Pomelo.EntityFrameworkCore.MySql - Versão 8.0.2
 * Newtonsoft.Json - Versão 13.0.3
 
-## Observações
+## Notes
 
-* O projeto não usa Code First, por isso, anexei no projeto um arquivo chamado **ScriptDB.sql** com a estrutura de criação do banco de dados. Basta rodar ou importar o arquivo em seu banco MySql.
+* Code First is not used in this project, that’s why I attached a file named **ScriptDB.sql** with a database creation structure. You can run or import the file into your MySql.
  
-## Em funcionamento
+## Running the project
 
-[Link do youtube](https://youtu.be/yv5n0JWQ8Ew)
+[Youtube link](https://youtu.be/yv5n0JWQ8Ew)
 
-## ✒️ Autor
+## ✒️ Author
 
 **Mateus vieira** - [Linkedin](https://www.linkedin.com/in/mateus-vieira-da-silva/)
